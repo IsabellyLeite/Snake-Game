@@ -59,4 +59,3 @@ Possui tela inicial, placar, tela de game over e um visual estilizado com degrad
 ![Preview do projeto](assets/snake2.png)
 ---
 Feito com carinho por Isa ❤️
-![Preview do projeto](assets/climafacil3.png)
